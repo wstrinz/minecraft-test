@@ -16,7 +16,7 @@
   :creative-tab tab-test-mod
   :light-level (float 1.0)
   :step-sound Block/soundTypeStone
-  :block-texture-name "test-mod:test-block")
+  :block-texture-name "test-mod:conj-block")
 
 ;Was used to test the class generation version of defobj and variants.
 ;(defblock test-block
